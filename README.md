@@ -1,0 +1,19 @@
+- 👋 Hi, I’m Eden Sharp! username: @edenasharpie
+  -
+- 👀 I’m interested in ...
+  - making cool and artful thinjs that can help the world!
+- 🌱 I’m currently learning ...
+  - reimplementing my many desmos projects into raylib with zig
+- 💞️ I’m looking to collaborate on ...
+  - anything we share a common interest with. message me!
+- 📫 How to reach me ...
+  - email: edenasharpie@gmail.com
+- 😄 Pronouns: ...
+  - she/her or they/them
+- ⚡ Fun fact: ...
+  - My partner's cat has 26 toes :3
+
+<!---
+edenasharpie/edenasharpie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
